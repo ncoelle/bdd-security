@@ -2,7 +2,7 @@ import net.masterthought.cucumber.ReportBuilder
 
 apply plugin: 'groovy'
 apply plugin: 'java'
-apply plugin: 'idea'
+// apply plugin: 'idea'
 apply plugin: 'maven'
 def cucumberVersion = "1.2.4"
 
